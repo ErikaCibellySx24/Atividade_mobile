@@ -1,0 +1,27 @@
+{
+    "name": "Ativ Mobile",
+    "short_name": "Atv-Mobile",
+    "theme_color": "#262577",
+    "background_color": "#0e0d42",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+  "icons": [
+    {
+      "src": "Logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
